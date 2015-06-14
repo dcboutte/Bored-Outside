@@ -1,0 +1,25 @@
+Basic Git Commands:
+
+git pull origin master
+
+This will pull all of the code from your repo at github.
+
+git checkout -b <branchname>
+
+Create and checkout a branch.
+
+git merge <branchname>
+
+This will merge branches together.
+
+git add .
+
+This will add all of your files to git.
+
+git commit -m "<message>"
+
+This will commit everything you've added with git add.
+
+git push origin master
+
+This will push the code from your computer to github.
