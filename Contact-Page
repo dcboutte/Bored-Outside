@@ -1,0 +1,11 @@
+<html>
+	<head> 
+		<title>Contact Page</title>
+	</head>
+	<body>
+		<h6 style="text-align:center;font-size:40px">Contact Information</h6>
+		<h2 style="text-align:left">Email:<p style="font-size:15px">dcboutte@gmail.com</p></h2>
+		<p>I started out working with photoshop, and taking photos. I was then advised to take on learning front end design (maybe learning back end later), and so far I have only learned some html and css, but each day I learn more, but here is some photos I've taken and used in photoshop that I hope to incorporate into my futue projects.
+		Heres to a link to some photo edits I've done</P><a href="https://instagram.com/denalirun"> My photos </a>
+	</body>
+</html>
